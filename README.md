@@ -4,7 +4,7 @@ This is a code snippet of fourier series expansion of a periodic square wave . E
 A periodic square wave can be represented as a sum of weighted sine and cosine harmonics called the *Fourier series*
 ## Fourier series expansion of a square wave can be given by :
 ## <img src="https://render.githubusercontent.com/render/math?math=F(x)=4/\pi*\Sigma_{k=0}^{\infinity}(\sin(2\pi (2k-1) * ft/(2k-1))">
-where f is the frequency and t is the time 
+*where f is the frequency and t is the time* 
 ### *when I used 3 harmonics to describe the wave is not really a square wave.*
 ![Image of 3 points](https://github.com/Asohamithran/Fourier-Visualisation/blob/master/1.jpg) <br>
 ### *30 harmonics describing the square wave signal accurately.*
