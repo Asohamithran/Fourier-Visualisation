@@ -5,14 +5,13 @@ A periodic square wave can be represented as a sum of weighted sine and cosine h
 ## Fourier series expansion of a square wave can be given by :
 ## <img src="https://render.githubusercontent.com/render/math?math=F(x)=4/\pi*\Sigma_{k=0}^{\infinity}(\sin(2\pi (2k-1) * ft/(2k-1))">
 *where f is the frequency and t is the time* 
-### *when I used 3 harmonics to describe the wave is not really a square wave.*
+### *3 harmonics to describe a square wave.*
 ![Image of 3 points](https://github.com/Asohamithran/Fourier-Visualisation/blob/master/1.jpg) <br>
-### *30 harmonics describing the square wave signal accurately.*
+### *30 harmonics describing the square wave signal.*
 ![Image of 3 points](https://github.com/Asohamithran/Fourier-Visualisation/blob/master/2.jpg) <br>
 <br>
 This code was inspired from Fourier visualisation by DANIEL SHIFFMAN in **p5js** platform . 
-I have recreated the code in processing.
-This code was inspired from Fourier visualisation by DANIEL SHIFFMAN in p5js platform . I have recreated the code in processing. For more details visit www.youtube.com\Thecodingtrain
+I have recreated the code in *Processing*.
 For more details visit www.youtube.com\Thecodingtrain
 
 
